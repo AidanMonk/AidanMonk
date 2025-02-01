@@ -1,5 +1,7 @@
 Heya!
+
 I'm Aidan, an aspiring developer with many years of experience in QA.
+
 Check out my linkedin to find out what I'm about:
 
 [in/aidan-monk/](https://www.linkedin.com/in/aidan-monk/)
